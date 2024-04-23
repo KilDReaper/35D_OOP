@@ -15,5 +15,11 @@ public class IFelse {
     else{
         System.out.println("Equal");
     }
+    if (num1<0){
+        System.out.println("num 1 is negative");
     }
+    else if(num2 < 0){
+        System.out.println("num 2 is negative");
+    }
+}
 }
