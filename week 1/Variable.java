@@ -5,7 +5,7 @@ public class Variable{
      * Not  shared between the object
      */
     int instanceVariable = 100;
-    /* Static/Class variablez
+    /* Static/Class variable
      * no need of object, can be called from class
      * Shared betweeen the objects
      */
